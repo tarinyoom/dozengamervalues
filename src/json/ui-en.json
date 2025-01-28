@@ -2,147 +2,147 @@
     "lang": "en",
     "axes": [
         {
-            "axisname": "Ownership",
+            "axisname": "Communicative",
             "tiers": [
-                "Propertarian",
-                "Private",
-                "Individual",
-                "Syncretic",
-                "Collective",
-                "Socialist",
-                "Communist"
+                "Over-Explainer",
+                "Verbose but Relevant",
+                "Balanced Communicator",
+                "Concise and Focused",
+                "Minimalist Communicator",
+                "Reluctantly Communicative",
+                "Full Mute"
             ],
             "leftvalue": {
-                "name": "Equality",
-                "color": "#ff0c57",
-                "icon": "./assets/icons/equality.svg",
-                "blurb": "Those with higher Equality scores believe that ownership should be aquired through work. They tend to support common land ownership, unions, and socialism."
+                "name": "Expressive",
+                "color": "#ff8c00",
+                "icon": "./assets/icons/expressive.svg",
+                "blurb": "Those with higher Expressive scores tend to elaborate, explain thoroughly, and value open communication. They are more likely to share context and emotions in their communication."
             },
             "rightvalue": {
-                "name": "Property",
-                "color": "#1fe545",
-                "icon": "./assets/icons/property.svg",
-                "blurb": "Those with higher Property scores believe that ownership should be aquired through claims. They tend to support landlords, wage labor, and class systems."
+                "name": "Reserved",
+                "color": "#007bff",
+                "icon": "./assets/icons/reserved.svg",
+                "blurb": "Those with higher Reserved scores prefer brevity and minimal communication. They are more likely to keep things concise, avoid unnecessary details, or remain silent unless absolutely necessary."
             }
         },
         {
-            "axisname": "Market",
+            "axisname": "Cosmetics vs Gameplay",
             "tiers": [
-                "Laissez-Faire",
-                "Free Market",
-                "Permissive",
-                "Intervening",
-                "Regulated",
-                "Directed",
-                "Planned"
+                "All About Looks",
+                "Aesthetic Enthusiast",
+                "Balanced Player",
+                "Mechanics Focused",
+                "Gameplay Purist",
+                "Strategic Devotee",
+                "Function Over Form"
             ],
             "leftvalue": {
-                "name": "Coordination",
-                "color": "#b900d3",
-                "icon": "./assets/icons/coordination.svg",
-                "blurb": "Those with higher Coordination scores believe that resources and production should be focused on needs. They tend to support regulation, high taxation, and economic planning."
+                "name": "Cosmetics",
+                "color": "#ff69b4",
+                "icon": "./assets/icons/cosmetics.svg",
+                "blurb": "Those with higher Cosmetics scores value visual appeal, customizations, and aesthetics over pure gameplay mechanics."
             },
             "rightvalue": {
-                "name": "Commerce",
-                "color": "#ffc100",
-                "icon": "./assets/icons/commerce.svg",
-                "blurb": "Those with higher Commerce scores believe that free markets are the best way to distribute resources. They tend to support deregulation, low taxes, and laissez-faire."
+                "name": "Gameplay",
+                "color": "#4caf50",
+                "icon": "./assets/icons/gameplay.svg",
+                "blurb": "Those with higher Gameplay scores prioritize mechanics, functionality, and raw performance over appearance or flair."
             }
         },
         {
-            "axisname": "Power",
+            "axisname": "Solo Star vs Team Player",
             "tiers": [
-                "Anarchist",
-                "Decentral",
-                "Dispersed",
-                "Representative",
-                "Unified",
-                "Concentrated",
-                "Autocratic"
+                "Glory Hog",
+                "Individualist",
+                "Self-Reliant",
+                "Balanced Contributor",
+                "Cooperative Ally",
+                "Team-Oriented",
+                "Ultimate Team Player"
             ],
             "leftvalue": {
-                "name": "Dominion",
-                "color": "#0cd1a5",
-                "icon": "./assets/icons/dominion.svg",
-                "blurb": "Those with higher Dominion scores believe that political power should be centralized in the hands of few. They tend to support strong governments, centralism, and autocracy."
+                "name": "Solo Star",
+                "color": "#ffd700",
+                "icon": "./assets/icons/solo_star.svg",
+                "blurb": "Those with higher Solo Star scores prefer to rely on their individual skill and enjoy personal achievement over collective effort."
             },
             "rightvalue": {
-                "name": "Anarchy",
-                "color": "#ff3a17",
-                "icon": "./assets/icons/anarchy.svg",
-                "blurb": "Those with higher Anarchy scores believe that political power should be spread amongst the population. They tend to support small governments, localism, and anarchism."
+                "name": "Team Player",
+                "color": "#1e90ff",
+                "icon": "./assets/icons/team_player.svg",
+                "blurb": "Those with higher Team Player scores value cooperation, teamwork, and collective success, often sacrificing personal glory for the group."
             }
         },
         {
-            "axisname": "Autonomy",
+            "axisname": "Cheeselord vs Honor",
             "tiers": [
-                "Brutal",
-                "Controlling",
-                "Restrictive",
-                "Limiting",
-                "Lenient",
-                "Tolerant",
-                "Emancipatory"
+                "Master of Cheese",
+                "Exploiter",
+                "Strategic Opportunist",
+                "Balanced Competitor",
+                "Fair Player",
+                "Honor Advocate",
+                "Pure Honor"
             ],
             "leftvalue": {
-                "name": "Permission",
-                "color": "#ffff00",
-                "icon": "./assets/icons/permission.svg",
-                "blurb": "Those with higher Permission scores believe an individual should be able to act as they please if they aren't harming others. They tend to support free speech, bodily autonomy, and individualism."
+                "name": "Cheeselord",
+                "color": "#8b0000",
+                "icon": "./assets/icons/cheeselord.svg",
+                "blurb": "Those with higher Cheeselord scores embrace cheesy tactics, exploits, and any edge that secures victory, regardless of traditional norms."
             },
             "rightvalue": {
-                "name": "Restriction",
-                "color": "#2876ff",
-                "icon": "./assets/icons/restriction.svg",
-                "blurb": "Those with higher Restriction scores believe that strict rules should be put in place to limit what an individual may do. They tend to support limitations on speech, paternalistic social policy, and collectivism."
+                "name": "Honor",
+                "color": "#32cd32",
+                "icon": "./assets/icons/honor.svg",
+                "blurb": "Those with higher Honor scores value fairness, integrity, and sportsmanship, often avoiding exploits even if it means losing."
             }
         },
         {
-            "axisname": "Identity",
+            "axisname": "Flamer vs Positive Vibes",
             "tiers": [
-                "Supremacist",
-                "Discriminatory",
-                "Prejudicial",
-                "Normative",
-                "Respectful",
-                "Inclusive",
-                "Intersectional"
+                "Toxic Flamer",
+                "Critical Complainer",
+                "Occasional Flare-Up",
+                "Neutral Communicator",
+                "Encouraging Teammate",
+                "Uplifting Presence",
+                "Radiant Positive Vibes"
             ],
             "leftvalue": {
-                "name": "Inclusivity",
-                "color": "#ff15a8",
-                "icon": "./assets/icons/inclusivity.svg",
-                "blurb": "Those with higher Inclusivity scores believe that identity groups in society should be treated equally. They tend to support LGBT+ acceptance, feminism, and racial equality."
+                "name": "Flamer",
+                "color": "#ff0000",
+                "icon": "./assets/icons/flamer.svg",
+                "blurb": "Those with higher Flamer scores are more likely to be critical, confrontational, and negative in their interactions, often expressing frustration openly."
             },
             "rightvalue": {
-                "name": "Supremacy",
-                "color": "#ff7b09",
-                "icon": "./assets/icons/supremacy.svg",
-                "blurb": "Those with higher Supremacy scores believe that identity groups are stratified and more or less valuable. They tend to support sexual norms, gender roles, and racial nationalism."
+                "name": "Positive Vibes",
+                "color": "#00ff7f",
+                "icon": "./assets/icons/positive_vibes.svg",
+                "blurb": "Those with higher Positive Vibes scores foster a supportive, encouraging, and optimistic atmosphere, helping to uplift their team and reduce stress."
             }
         },
         {
-            "axisname": "Progress",
+            "axisname": "Meta Follower vs Innovative",
             "tiers": [
-                "Futuristic",
-                "Progressive",
-                "Neoteric",
-                "Conventional",
-                "Conservative",
-                "Traditional",
-                "Antiquated"
+                "Strict Meta Player",
+                "Meta Adherent",
+                "Optimized Strategist",
+                "Adaptive Thinker",
+                "Creative Strategist",
+                "Risk-Taker",
+                "Innovative Trailblazer"
             ],
             "leftvalue": {
-                "name": "Heritage",
-                "color": "#9bf122",
-                "icon": "./assets/icons/heritage.svg",
-                "blurb": "Those with higher Heritage scores believe that rapid change is risky and that the past should be cherished. They tend to support religion, nature, and preserving culture."
+                "name": "Meta Follower",
+                "color": "#ffa500",
+                "icon": "./assets/icons/meta.svg",
+                "blurb": "Those with higher Meta Follower scores stick to established strategies and conventional methods for optimal results."
             },
             "rightvalue": {
-                "name": "Novelty",
-                "color": "#894efa",
-                "icon": "./assets/icons/novelty.svg",
-                "blurb": "Those with higher Novelty scores believe that holding on to the past is irrational and instead we should look to the future. They tend to support secularism, transhumanism, and rewriting culture."
+                "name": "Innovative",
+                "color": "#6a0dad",
+                "icon": "./assets/icons/innovative.svg",
+                "blurb": "Those with higher Innovative scores value creativity and unconventional approaches, often breaking from the meta to explore new strategies."
             }
         }
     ],
