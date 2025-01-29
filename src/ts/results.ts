@@ -153,7 +153,7 @@ window.onload = () => {
     //Draws canvas 1 header
     canvas.drawHeader(
         ui.resultstext.text.title,
-        "quark88.github.io/dozenvalues",
+        "forked from: quark88.github.io/dozenvalues",
         version,
         date,
         matches[0].name)

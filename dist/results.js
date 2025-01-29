@@ -64,7 +64,7 @@ ui.axes.forEach((v, i) => {
     axisLabels.push(axisLabel);
 });
 window.onload = () => {
-    canvas.drawHeader(ui.resultstext.text.title, "quark88.github.io/dozenvalues", version, date, matches[0].name);
+    canvas.drawHeader(ui.resultstext.text.title, "forked from: quark88.github.io/dozenvalues", version, date, matches[0].name);
     ui.axes.forEach((v, i) => {
         const icons = [v.leftvalue.icon, v.rightvalue.icon];
         canvas.drawImages(icons, i);
