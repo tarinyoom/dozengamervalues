@@ -2,7 +2,7 @@
     "lang": "en",
     "axes": [
         {
-            "axisname": "Communication Style",
+            "axisname": "Communication",
             "tiers": [
                 "Over-Explainer",
                 "Verbose but Relevant",
@@ -26,7 +26,7 @@
             }
         },
         {
-            "axisname": "Priority Focus",
+            "axisname": "Cosmetics/Gameplay",
             "tiers": [
                 "All About Looks",
                 "Aesthetic Enthusiast",
@@ -50,7 +50,7 @@
             }
         },
         {
-            "axisname": "Creative Approach",
+            "axisname": "Innovation",
             "tiers": [
                 "Strict Meta Player",
                 "Meta Adherent",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "axisname": "Collaboration Style",
+            "axisname": "Teamplay",
             "tiers": [
                 "Glory Hog",
                 "Individualist",
@@ -98,7 +98,7 @@
             }
         },
         {
-            "axisname": "Tactical Philosophy",
+            "axisname": "Honorability",
             "tiers": [
                 "Master of Cheese",
                 "Exploiter",
@@ -122,7 +122,7 @@
             }
         },
         {
-            "axisname": "Emotional Tone",
+            "axisname": "Positivity",
             "tiers": [
                 "Toxic Flamer",
                 "Critical Complainer",
@@ -157,7 +157,7 @@
             "custom_button": "Custom",
             "whatis": "What is DozenGamerValues?",
             "whatare12v": "What are the 12 values?",
-            "whatare12v_text": "There are 6 independent axes - Communication Style, Priority Focus, Creative Approach, Collaboration Style, Tactical Philosophy, and Emotional Tone - and each has two opposing values assigned to them:",
+            "whatare12v_text": "There are 6 independent axes - Communication, Cosmetics/Gameplay, Innovation, Teamplay, Honorability, and Positivity - and each has two opposing values assigned to them:",
             "whatisclosestmatch": "What is the Closest Match?",
             "credits": "Credits"
         },
