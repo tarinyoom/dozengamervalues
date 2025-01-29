@@ -12,13 +12,13 @@
                 "Reluctantly Communicative",
                 "Full Mute"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Expressive",
                 "color": "#ff8c00",
                 "icon": "./assets/icons/expressive.svg",
                 "blurb": "Those with higher Expressive scores tend to elaborate, explain thoroughly, and value open communication. They are more likely to share context and emotions in their communication."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Reserved",
                 "color": "#007bff",
                 "icon": "./assets/icons/reserved.svg",
@@ -36,13 +36,13 @@
                 "Strategic Devotee",
                 "Function Over Form"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Cosmetics",
                 "color": "#ff69b4",
                 "icon": "./assets/icons/cosmetics.svg",
                 "blurb": "Those with higher Cosmetics scores value visual appeal, customizations, and aesthetics over pure gameplay mechanics."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Gameplay",
                 "color": "#4caf50",
                 "icon": "./assets/icons/gameplay.svg",
@@ -60,13 +60,13 @@
                 "Risk-Taker",
                 "Innovative Trailblazer"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Meta Follower",
                 "color": "#ffa500",
                 "icon": "./assets/icons/meta.svg",
                 "blurb": "Those with higher Meta Follower scores stick to established strategies and conventional methods for optimal results."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Innovative",
                 "color": "#6a0dad",
                 "icon": "./assets/icons/innovation.svg",
@@ -84,13 +84,13 @@
                 "Team-Oriented",
                 "Ultimate Team Player"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Solo Star",
                 "color": "#ffd700",
                 "icon": "./assets/icons/solo.svg",
                 "blurb": "Those with higher Solo Star scores prefer to rely on their individual skill and enjoy personal achievement over collective effort."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Team Player",
                 "color": "#1e90ff",
                 "icon": "./assets/icons/teamplay.svg",
@@ -108,13 +108,13 @@
                 "Honor Advocate",
                 "Pure Honor"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Cheeselord",
                 "color": "#8b0000",
                 "icon": "./assets/icons/cheese.svg",
                 "blurb": "Those with higher Cheeselord scores embrace cheesy tactics, exploits, and any edge that secures victory, regardless of traditional norms."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Honor",
                 "color": "#32cd32",
                 "icon": "./assets/icons/honor.svg",
@@ -132,13 +132,13 @@
                 "Uplifting Presence",
                 "Radiant Positivity"
             ],
-            "leftvalue": {
+            "rightvalue": {
                 "name": "Flamer",
                 "color": "#ff0000",
                 "icon": "./assets/icons/flame.svg",
                 "blurb": "Those with higher Flamer scores are more likely to be critical, confrontational, and negative in their interactions, often expressing frustration openly."
             },
-            "rightvalue": {
+            "leftvalue": {
                 "name": "Positivity",
                 "color": "#00ff7f",
                 "icon": "./assets/icons/positivity.svg",
