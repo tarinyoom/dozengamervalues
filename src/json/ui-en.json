@@ -163,7 +163,7 @@
         },
         "htmltext": {
             "whatis_text": "DozenGamerValues is a gamer test that aims to map differing gamer perspectives onto six axes. You will be presented with a spectrum of buttons, ranging from agree to disagree. Pick the option that best fits your reaction to the given statement, and remember to answer honestly.<br><br>At the end of the quiz, you will be presented with your results. Since some questions affect multiple axes, it is very unlikely you will get 100% for any value, so don't be alarmed if your results seem more moderate than you expected.",
-            "whatisclosestmatch_text": "Once your results are generated, our test will try to assign you with an ideology that is the closest to your scores. We invite you to search more about that ideology, to see if it seems to fit your beliefs.<br><br>DozenGamerValues is meant to be built and developed collectively, so any propositions are welcomed."
+            "whatisclosestmatch_text": "Once your results are generated, our test will try to assign you with an ideology that is the closest to your scores. We invite you to search more about that ideology, to see if it seems to fit your beliefs.<br><br>DozenGamerValues is forked from a repo that is meant to be built and developed collectively, so any propositions are welcomed.<br>Below is the discord of the creators of the original repo."
         },
         "creditslist": [
             {
