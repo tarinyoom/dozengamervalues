@@ -2,7 +2,7 @@
     "lang": "en",
     "axes": [
         {
-            "axisname": "Communicative",
+            "axisname": "Communication Style",
             "tiers": [
                 "Over-Explainer",
                 "Verbose but Relevant",
@@ -26,7 +26,7 @@
             }
         },
         {
-            "axisname": "Cosmetics vs Gameplay",
+            "axisname": "Priority Focus",
             "tiers": [
                 "All About Looks",
                 "Aesthetic Enthusiast",
@@ -50,7 +50,7 @@
             }
         },
         {
-            "axisname": "Solo Star vs Team Player",
+            "axisname": "Collaboration Style",
             "tiers": [
                 "Glory Hog",
                 "Individualist",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "axisname": "Cheeselord vs Honor",
+            "axisname": "Tactical Philosophy",
             "tiers": [
                 "Master of Cheese",
                 "Exploiter",
@@ -98,7 +98,7 @@
             }
         },
         {
-            "axisname": "Flamer vs Positive Vibes",
+            "axisname": "Emotional Tone",
             "tiers": [
                 "Toxic Flamer",
                 "Critical Complainer",
@@ -122,7 +122,7 @@
             }
         },
         {
-            "axisname": "Meta Follower vs Innovative",
+            "axisname": "Creative Approach",
             "tiers": [
                 "Strict Meta Player",
                 "Meta Adherent",
@@ -149,21 +149,21 @@
     "indextext": {
         "switchlabel": "Theme",
         "rawtext": {
-            "title": "DozenValues",
+            "title": "DozenGamerValues",
             "start_text": "Begin",
             "matches_button": "Matches",
             "lister_button": "Lister",
             "questions_button": "Questions",
             "custom_button": "Custom",
-            "whatis": "What is DozenValues?",
+            "whatis": "What is DozenGamerValues?",
             "whatare12v": "What are the 12 values?",
-            "whatare12v_text": "There are 6 independent axes - Ownership, Market, Power, Autonomy, Identity and Progress - and each has two opposing values assigned to them:",
+            "whatare12v_text": "There are 6 independent axes - Communication Style, Priority Focus, Creative Approach, Collaboration Style, Tactical Philosophy, and Emotional Tone - and each has two opposing values assigned to them:",
             "whatisclosestmatch": "What is the Closest Match?",
             "credits": "Credits"
         },
         "htmltext": {
-            "whatis_text": "DozenValues is a political test that aims to map differing political perspectives onto six axes. You will be presented with a spectrum of buttons, ranging from agree to disagree. Pick the option that best fits your reaction to the given statement, and remember to answer honestly.<br><br>At the end of the quiz, you will be presented with your results. Since some questions affect multiple axes, it is very unlikely you will get 100% for any value, so don't be alarmed if your results seem more moderate than you expected.",
-            "whatisclosestmatch_text": "Once your results are generated, our test will try to assign you with an ideology, out of the 253 we have, that is the closest to your scores. We invite you to search more about that ideology, to see if it seems to fit your beliefs.<br><br>If not, let us know by joining our Discord server or our subreddit and propose any features or ideologies you would like to see added. DozenValues is meant to be built and developed collectively, so any propositions are welcomed."
+            "whatis_text": "DozenGamerValues is a gamer test that aims to map differing gamer perspectives onto six axes. You will be presented with a spectrum of buttons, ranging from agree to disagree. Pick the option that best fits your reaction to the given statement, and remember to answer honestly.<br><br>At the end of the quiz, you will be presented with your results. Since some questions affect multiple axes, it is very unlikely you will get 100% for any value, so don't be alarmed if your results seem more moderate than you expected.",
+            "whatisclosestmatch_text": "Once your results are generated, our test will try to assign you with an ideology that is the closest to your scores. We invite you to search more about that ideology, to see if it seems to fit your beliefs.<br><br>DozenGamerValues is meant to be built and developed collectively, so any propositions are welcomed."
         },
         "creditslist": [
             {
@@ -195,16 +195,16 @@
         ]
     },
     "instructiontext": {
-        "title": "DozenValues",
+        "title": "DozenGamerValues",
         "pagename": "Instructions",
-        "instructiontext": "You will be presented with 132 statements and a spectrum ranging from Agree to Disagree. Click the button that fits your opinion.",
+        "instructiontext": "You will be presented with statements and a spectrum ranging from Agree to Disagree. Click the button that fits your opinion.",
         "quiz_text": "Got it",
         "quiz_random_text": "Got it (Shuffled)",
         "back_text": "Back"
     },
     "quiztext": {
         "text": {
-            "title": "DozenValues",
+            "title": "DozenGamerValues",
             "back_text": "Back",
             "pagename": "Quiz"
         },
@@ -240,7 +240,7 @@
     },
     "resultstext": {
         "text": {
-            "title": "DozenValues",
+            "title": "DozenGamerValues",
             "pagename": "Results",
             "back_text": "Back",
             "simple_results": "Simple Results",
@@ -257,7 +257,7 @@
         "next_matches": "Next Matches"
     },
     "listertext": {
-        "title": "DozenValues",
+        "title": "DozenGamerValues",
         "pagename": "Lister",
         "about": "All ideological matches listed from closest to farthest, with percentages. Click on an ideology for more information, and enable absolute values for a different comparison method.",
         "abs_label": "Absolute",
@@ -267,7 +267,7 @@
         "custom_button": "Custom"
     },
     "matchestext": {
-        "title": "DozenValues",
+        "title": "DozenGamerValues",
         "pagename": "Matches",
         "about": "Select an ideology from the list to see its details, or use the arrows to swap between them.",
         "leftarrow": "«",
@@ -278,7 +278,7 @@
         "custom_button": "Custom"
     },
     "questionstext": {
-        "title": "DozenValues",
+        "title": "DozenGamerValues",
         "pagename": "Questions",
         "about": "All of the test's questions, with the values they influence.",
         "back_text": "Back",
@@ -287,7 +287,7 @@
         "custom_button": "Custom"
     },
     "customtext": {
-        "title": "DozenValues",
+        "title": "DozenGamerValues",
         "pagename": "Custom",
         "about": "Click the icons to increase their scores by 5 points, click the bars directly to select your score and click the name to change it to a custom entry.",
         "download_button": "Download",
