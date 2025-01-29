@@ -130,7 +130,7 @@
                 "Neutral Communicator",
                 "Encouraging Teammate",
                 "Uplifting Presence",
-                "Radiant Positive Vibes"
+                "Radiant Positivity"
             ],
             "leftvalue": {
                 "name": "Flamer",
@@ -139,10 +139,10 @@
                 "blurb": "Those with higher Flamer scores are more likely to be critical, confrontational, and negative in their interactions, often expressing frustration openly."
             },
             "rightvalue": {
-                "name": "Positive Vibes",
+                "name": "Positivity",
                 "color": "#00ff7f",
                 "icon": "./assets/icons/positive_vibes.svg",
-                "blurb": "Those with higher Positive Vibes scores foster a supportive, encouraging, and optimistic atmosphere, helping to uplift their team and reduce stress."
+                "blurb": "Those with higher Positivity scores foster a supportive, encouraging, and optimistic atmosphere, helping to uplift their team and reduce stress."
             }
         }
     ],
