@@ -26,7 +26,7 @@
             }
         },
         {
-            "axisname": "Cosmetics/Gameplay",
+            "axisname": "Interests",
             "tiers": [
                 "All About Looks",
                 "Aesthetic Enthusiast",
@@ -157,7 +157,7 @@
             "custom_button": "Custom",
             "whatis": "What is DozenGamerValues?",
             "whatare12v": "What are the 12 values?",
-            "whatare12v_text": "There are 6 independent axes - Communication, Cosmetics/Gameplay, Innovation, Teamplay, Honorability, and Positivity - and each has two opposing values assigned to them:",
+            "whatare12v_text": "There are 6 independent axes - Communication, Interests, Innovation, Teamplay, Honorability, and Positivity - and each has two opposing values assigned to them:",
             "whatisclosestmatch": "What is the Closest Match?",
             "credits": "Credits"
         },
