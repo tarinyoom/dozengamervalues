@@ -50,6 +50,30 @@
             }
         },
         {
+            "axisname": "Creative Approach",
+            "tiers": [
+                "Strict Meta Player",
+                "Meta Adherent",
+                "Optimized Strategist",
+                "Adaptive Thinker",
+                "Creative Strategist",
+                "Risk-Taker",
+                "Innovative Trailblazer"
+            ],
+            "leftvalue": {
+                "name": "Meta Follower",
+                "color": "#ffa500",
+                "icon": "./assets/icons/meta.svg",
+                "blurb": "Those with higher Meta Follower scores stick to established strategies and conventional methods for optimal results."
+            },
+            "rightvalue": {
+                "name": "Innovative",
+                "color": "#6a0dad",
+                "icon": "./assets/icons/innovative.svg",
+                "blurb": "Those with higher Innovative scores value creativity and unconventional approaches, often breaking from the meta to explore new strategies."
+            }
+        },
+        {
             "axisname": "Collaboration Style",
             "tiers": [
                 "Glory Hog",
@@ -119,30 +143,6 @@
                 "color": "#00ff7f",
                 "icon": "./assets/icons/positive_vibes.svg",
                 "blurb": "Those with higher Positive Vibes scores foster a supportive, encouraging, and optimistic atmosphere, helping to uplift their team and reduce stress."
-            }
-        },
-        {
-            "axisname": "Creative Approach",
-            "tiers": [
-                "Strict Meta Player",
-                "Meta Adherent",
-                "Optimized Strategist",
-                "Adaptive Thinker",
-                "Creative Strategist",
-                "Risk-Taker",
-                "Innovative Trailblazer"
-            ],
-            "leftvalue": {
-                "name": "Meta Follower",
-                "color": "#ffa500",
-                "icon": "./assets/icons/meta.svg",
-                "blurb": "Those with higher Meta Follower scores stick to established strategies and conventional methods for optimal results."
-            },
-            "rightvalue": {
-                "name": "Innovative",
-                "color": "#6a0dad",
-                "icon": "./assets/icons/innovative.svg",
-                "blurb": "Those with higher Innovative scores value creativity and unconventional approaches, often breaking from the meta to explore new strategies."
             }
         }
     ],
