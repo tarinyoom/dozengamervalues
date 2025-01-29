@@ -5,8 +5,8 @@
             0,
             0,
             0,
-            -2,
             0,
+            -2,
             0
         ]
     },
@@ -29,7 +29,7 @@
             0,
             0,
             0,
-            0
+            1
         ]
     },
     {
@@ -37,10 +37,10 @@
         "effect": [
             0,
             0,
-            0,
+            -1,
             0,
             1,
-            -1
+            0
         ]
     },
     {
@@ -49,8 +49,8 @@
             0,
             0,
             0,
-            2,
-            0,
+            1,
+            -1,
             0
         ]
     },
@@ -59,8 +59,8 @@
         "effect": [
             1,
             0,
-            -1,
             0,
+            -1,
             0,
             0
         ]
@@ -81,8 +81,8 @@
         "effect": [
             0,
             0,
-            -1,
             0,
+            -1,
             1,
             0
         ]
@@ -93,8 +93,8 @@
             0,
             0,
             0,
-            1,
             0,
+            1,
             1
         ]
     },
@@ -103,8 +103,8 @@
         "effect": [
             0,
             -1,
-            -1,
             0,
+            -1,
             0,
             0
         ]
@@ -113,11 +113,11 @@
         "text": "Physical violence should be used against those who steal my creeps.",
         "effect": [
             0,
-            1,
-            -1,
+            0,
             0,
             -1,
-            0
+            0,
+            -1
         ]
     },
     {
@@ -125,7 +125,7 @@
         "effect": [
             -1,
             1,
-            1,
+            0,
             0,
             0,
             0
@@ -134,12 +134,12 @@
     {
         "text": "Reddit threads should have more say in game creation than game creators.",
         "effect": [
+            -1,
             0,
             0,
-            -2,
             0,
             0,
-            0
+            -1
         ]
     },
     {
@@ -147,20 +147,9 @@
         "effect": [
             1,
             0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Society should embrace all types of gamers.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
             1,
+            0,
+            0,
             0
         ]
     },
@@ -169,7 +158,7 @@
         "effect": [
             0,
             0,
-            2,
+            -2,
             0,
             0,
             0
@@ -181,8 +170,8 @@
             0,
             0,
             0,
+            1,
             0,
-            -1,
             -1
         ]
     },
@@ -190,10 +179,10 @@
         "text": "The grind comes before all else.",
         "effect": [
             0,
-            0,
             1,
             0,
-            -1,
+            0,
+            1,
             0
         ]
     },
@@ -203,7 +192,7 @@
             0,
             1,
             0,
-            1,
+            -1,
             0,
             0
         ]
@@ -214,9 +203,9 @@
             0,
             0,
             0,
-            1,
             0,
-            0
+            1,
+            -1
         ]
     },
     {
@@ -224,10 +213,10 @@
         "effect": [
             0,
             0,
-            -1,
-            -1,
             0,
-            0
+            1,
+            0,
+            -1
         ]
     },
     {
@@ -236,18 +225,7 @@
             0,
             0,
             0,
-            0,
             2,
-            0
-        ]
-    },
-    {
-        "text": "Elo decay should be abolished.",
-        "effect": [
-            0,
-            -2,
-            0,
-            0,
             0,
             0
         ]
@@ -255,402 +233,6 @@
     {
         "text": "Twitch streamers provide an essential service.",
         "effect": [
-            -2,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "An 'int list' in the style of Tyler1 is legitimate.",
-        "effect": [
-            0,
-            -1,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Nobody should get banned for flaming a teammate.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "We should not engage in cheese warfare.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Altering our language to make it more gender-inclusive is not a bad idea.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Life without the state would be nasty, brutish and short.",
-        "effect": [
-            0,
-            0,
-            2,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "We shouldn't let people do things which will put them in danger.",
-        "effect": [
-            0,
-            0,
-            0,
-            -2,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Everyone should be provided with a job.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Bosses know what's best for their workers.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Abandoned property should be free to use by any individual.",
-        "effect": [
-            1,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Gender should be abolished.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            -1
-        ]
-    },
-    {
-        "text": "An individual's gender is determined by their chromosomes.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -2,
-            0
-        ]
-    },
-    {
-        "text": "We should increase tariffs on imports in order to help local producers.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "It's wasteful to have so many different brands of the same good.",
-        "effect": [
-            0,
-            2,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Workplaces should not be required to close on Sundays or during religious festivals.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Intellectual property is legitimate.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Competition drives innovation.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Freedom of speech is vital for a healthy society.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "The benefits of automation outweigh the costs.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Workers should seize the means of production.",
-        "effect": [
-            2,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Using artificial intelligence to better plan production is worth investigating.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Trespassing should be met with harsh consequences.",
-        "effect": [
-            -1,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "It is better for different peoples to stay in their own communities.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "Like-minded individuals should form self-governing communities.",
-        "effect": [
-            0,
-            0,
-            -2,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "We should not attempt to mess with nature.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            2
-        ]
-    },
-    {
-        "text": "International borders should not exist.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Men make better leaders than women.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "A party of revolutionaries should lead the workers against capitalism.",
-        "effect": [
-            1,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "The economy should be open to each and every one.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Workers deserve a greater part of what they create.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Theft can never be justified.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "We should move beyond wage systems.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Certain ethnic groups are genetically predisposed to violence.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -2,
-            0
-        ]
-    },
-    {
-        "text": "We should be skeptical of new technologies.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Taxes should exist on harmful products to discourage their consumption.",
-        "effect": [
-            0,
-            1,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Political correctness has gone too far.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "Declaring your territory to be independent from governmental authority is legitimate.",
-        "effect": [
             -1,
             0,
             -1,
@@ -660,546 +242,7 @@
         ]
     },
     {
-        "text": "We should combat mindless consumerism.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "An individual can never be truly separate from society.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Nothing is sacred, and we should embrace this.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -2
-        ]
-    },
-    {
-        "text": "The industrial revolution was a required step in history.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Governmental surveillance is an unnecessary evil.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Gay marriage should be legal.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Religious authority should never grant political power.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Executive committees are an efficient way of handling large economic entities.",
-        "effect": [
-            -1,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "A singular world government is desirable.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Firearms should be available to the general public.",
-        "effect": [
-            0,
-            0,
-            -1,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Proportional representation of minorities should be mandatory in workplaces.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Pornography should be banned.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Many industries are too important to be left to the market.",
-        "effect": [
-            0,
-            2,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Tyranny by majority is a legitimate concern.",
-        "effect": [
-            0,
-            0,
-            1,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Expertise, not popular approval, represents best the worth of a ruler.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "People should not have to pay for healthcare.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Self-employment is a net positive for everyone involved.",
-        "effect": [
-            1,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Authorities should not be questionned as long as they provide stability.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "The worst criminals should be publicly executed.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "The prices of goods should be set by the market.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "It's often necessary to break taboos.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "The revenue of religious institutions should not face taxation.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Foreign investments are to be welcomed.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Wealth accumulation leads to the creation of an oppressive class system.",
-        "effect": [
-            2,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Deportation should be used to ensure ethnic homogeneity.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "The wealth disparity between different cultural groups is due to some groups working harder.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "In times of crisis, safety takes precedence over liberty.",
-        "effect": [
-            0,
-            0,
-            1,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Life in big cities is unfulfilling.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Nature has no inherent value.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Workers should be allowed to block access to workplaces during general strikes.",
-        "effect": [
-            1,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Hate speech against minorities should be a crime.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Discrimination against obese people is unacceptable.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Subsidies should be given to agrarian producers and those who wish to become ones.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Parents should not send their children to religious schools.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "The economy should be organized by profession groups performing their function.",
-        "effect": [
-            0,
-            1,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "People should not be treated differently because of their origin.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Feudalism was not such a bad system.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Nomadic cultures have a wiser relationship with the land than we do.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "There should be laws against wearing religious clothing in public.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "Worker associations hurt everyone in the end.",
-        "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Some ideas are too dangerous to be given a platform.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Biological parenting is no better than adoption or communal parenting.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "A large welfare state breeds an unhealthy culture of reliance.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "In the future, we should improve our own biology with technology.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            -2
-        ]
-    },
-    {
-        "text": "My culture is worth protecting.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Traditional gender roles are optimal.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            1
-        ]
-    },
-    {
-        "text": "There should be certain rules and standards that apply across all of society.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "If it is tradition to perform some surgeries on children, it should be done.",
-        "effect": [
-            0,
-            0,
-            0,
-            -1,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "In an ideal society, money would not exist.",
-        "effect": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "All government intervention in the economy should be opposed.",
+        "text": "Life without cosmetic collectibles would be nasty, brutish and short.",
         "effect": [
             0,
             -2,
@@ -1210,91 +253,14 @@
         ]
     },
     {
-        "text": "No one but me can adequately represent my political views.",
+        "text": "Unclaimed loot should be free to use by any individual.",
         "effect": [
             0,
             0,
+            1,
             -1,
             0,
-            0,
             0
-        ]
-    },
-    {
-        "text": "Prostitution should be allowed.",
-        "effect": [
-            0,
-            -1,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "All drugs should be decriminalised.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Inheritance should be abolished.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            -1
-        ]
-    },
-    {
-        "text": "We should return to a simpler, less materialistic way of living.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            2
-        ]
-    },
-    {
-        "text": "If someone is first to claim an area of land, they are entitled to profit from it.",
-        "effect": [
-            -2,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "An individual should be allowed to do whatever they want with their own body.",
-        "effect": [
-            0,
-            0,
-            0,
-            2,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "There are moral rules which should never be broken.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
         ]
     }
 ]
