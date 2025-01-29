@@ -1,127 +1,6 @@
 [
     {
-        "text": "Euthanasia should be legal.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Politicians should not exist.",
-        "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Property shouldn't be held by few select individuals.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "It is important to respect religion.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "Any sexual activity is fine as long as everyone involved is a consenting adult.",
-        "effect": [
-            0,
-            0,
-            0,
-            2,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Independent websites should not be required to tolerate content that violates their policy.",
-        "effect": [
-            0,
-            -1,
-            0,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "People should be allowed to do whatever they want in their own yard.",
-        "effect": [
-            -1,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "It would be a shame to see minority languages go extinct.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            1
-        ]
-    },
-    {
-        "text": "It's not healthy for children to be raised by gay couples.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "All workers worldwide deserve to be freed from capitalism.",
-        "effect": [
-            1,
-            0,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "The right to start a business is fundamental to any thriving economy.",
-        "effect": [
-            -1,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Physical violence should be used against those who oppose my views.",
+        "text": "Cannon rushing should be legal.",
         "effect": [
             0,
             0,
@@ -132,10 +11,21 @@
         ]
     },
     {
-        "text": "Workers should have more of a say in production.",
+        "text": "Yuumi should not exist.",
         "effect": [
+            0,
             1,
+            0,
+            0,
             1,
+            0
+        ]
+    },
+    {
+        "text": "Creative mode shouldn't be held by few select individuals.",
+        "effect": [
+            0,
+            -1,
             0,
             0,
             0,
@@ -143,18 +33,106 @@
         ]
     },
     {
-        "text": "Workers in essential parts of the economy should not be allowed to strike.",
+        "text": "It is important to respect the intentions of the game creators.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            -1
+        ]
+    },
+    {
+        "text": "Any ganking activity is fine as long as everyone involved is a consenting adult.",
+        "effect": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "People should be allowed to do whatever they want in their own single-player world.",
+        "effect": [
+            1,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "It would be a shame to see indie games go extinct.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "text": "It's not healthy for children to be in voice chat.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "All gamers worldwide deserve to be freed from League of Legends.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "The right to quit and start a new character is fundamental to any thriving RPG.",
+        "effect": [
+            0,
+            -1,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Physical violence should be used against those who steal my creeps.",
+        "effect": [
+            0,
+            1,
+            -1,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "DPS players doing essential raid mechanics should not be allowed to strike.",
         "effect": [
             -1,
             1,
-            0,
+            1,
             0,
             0,
             0
         ]
     },
     {
-        "text": "Local governments should be more powerful than national governments.",
+        "text": "Reddit threads should have more say in game creation than game creators.",
         "effect": [
             0,
             0,
@@ -165,18 +143,7 @@
         ]
     },
     {
-        "text": "Nations thrive when presided over by strong capable governments.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Hierarchies should be dismantled.",
+        "text": "Tier lists should be dismantled.",
         "effect": [
             1,
             0,
@@ -187,18 +154,7 @@
         ]
     },
     {
-        "text": "Regulations can often harm the people they aim to protect.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Society should embrace multiculturalism.",
+        "text": "Society should embrace all types of gamers.",
         "effect": [
             0,
             0,
@@ -209,18 +165,7 @@
         ]
     },
     {
-        "text": "Welfare for disabled people should be cut.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "Society must unite behind a central authority in order to be cohesive.",
+        "text": "Gamers must unite behind a central meta in order to be effective.",
         "effect": [
             0,
             0,
@@ -231,18 +176,7 @@
         ]
     },
     {
-        "text": "Women are naturally more nurturing than men.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "Eugenics should be used to genetically remove disabled individuals.",
+        "text": "Poor in-game performance should be used to automatically remove gamers from all ranked modes.",
         "effect": [
             0,
             0,
@@ -253,7 +187,7 @@
         ]
     },
     {
-        "text": "The nation comes before all else.",
+        "text": "The grind comes before all else.",
         "effect": [
             0,
             0,
@@ -264,18 +198,40 @@
         ]
     },
     {
-        "text": "Eradicating diseases isn't a valid reason to enforce vaccination.",
+        "text": "People should be able to 1v1 in their own lanes without ever having to deal with the team.",
+        "effect": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "If people want to intentionally feed, it is their right to do so.",
         "effect": [
             0,
             0,
             0,
             1,
             0,
-            1
+            0
         ]
     },
     {
-        "text": "People are whatever gender they say they are.",
+        "text": "Sometimes, flaming a gamer for poor play is necessary.",
+        "effect": [
+            0,
+            0,
+            -1,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All marginalized gamers should act in solidarity with each other.",
         "effect": [
             0,
             0,
@@ -286,84 +242,7 @@
         ]
     },
     {
-        "text": "Leadership should be passed on hereditarily.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            1
-        ]
-    },
-    {
-        "text": "People should be able to live their lives without ever having to deal with money.",
-        "effect": [
-            0,
-            1,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "If people want to live unhealthy lifestyles, it is their right to do so.",
-        "effect": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Sometimes, vigilante justice is necessary.",
-        "effect": [
-            0,
-            0,
-            -1,
-            -1,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "We should replace the central bank with alternate credit forms, such as free banking.",
-        "effect": [
-            0,
-            -1,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "All marginalized minorities should act in solidarity with each other.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            2,
-            0
-        ]
-    },
-    {
-        "text": "With open borders come major economic benefits.",
-        "effect": [
-            0,
-            -1,
-            0,
-            0,
-            1,
-            0
-        ]
-    },
-    {
-        "text": "Income tax should be abolished.",
+        "text": "Elo decay should be abolished.",
         "effect": [
             0,
             -2,
@@ -374,7 +253,7 @@
         ]
     },
     {
-        "text": "Landlords provide an essential service.",
+        "text": "Twitch streamers provide an essential service.",
         "effect": [
             -2,
             0,
@@ -385,7 +264,7 @@
         ]
     },
     {
-        "text": "Gathering of personal data by companies is legitimate.",
+        "text": "An 'int list' in the style of Tyler1 is legitimate.",
         "effect": [
             0,
             -1,
@@ -396,29 +275,7 @@
         ]
     },
     {
-        "text": "Some sexual orientations are to be socially favored.",
-        "effect": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0
-        ]
-    },
-    {
-        "text": "The populous cannot govern themselves.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Nobody should get fired for disrespecting a coworker's identity.",
+        "text": "Nobody should get banned for flaming a teammate.",
         "effect": [
             1,
             0,
@@ -429,21 +286,10 @@
         ]
     },
     {
-        "text": "We should not engage in offensive warfare.",
+        "text": "We should not engage in cheese warfare.",
         "effect": [
             0,
             0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Local councils should have more power to implement economic policies.",
-        "effect": [
-            0,
-            1,
             -1,
             0,
             0,
