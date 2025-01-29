@@ -69,7 +69,7 @@
             "rightvalue": {
                 "name": "Innovative",
                 "color": "#6a0dad",
-                "icon": "./assets/icons/innovative.svg",
+                "icon": "./assets/icons/innovation.svg",
                 "blurb": "Those with higher Innovative scores value creativity and unconventional approaches, often breaking from the meta to explore new strategies."
             }
         },
@@ -87,13 +87,13 @@
             "leftvalue": {
                 "name": "Solo Star",
                 "color": "#ffd700",
-                "icon": "./assets/icons/solo_star.svg",
+                "icon": "./assets/icons/solo.svg",
                 "blurb": "Those with higher Solo Star scores prefer to rely on their individual skill and enjoy personal achievement over collective effort."
             },
             "rightvalue": {
                 "name": "Team Player",
                 "color": "#1e90ff",
-                "icon": "./assets/icons/team_player.svg",
+                "icon": "./assets/icons/teamplay.svg",
                 "blurb": "Those with higher Team Player scores value cooperation, teamwork, and collective success, often sacrificing personal glory for the group."
             }
         },
@@ -111,7 +111,7 @@
             "leftvalue": {
                 "name": "Cheeselord",
                 "color": "#8b0000",
-                "icon": "./assets/icons/cheeselord.svg",
+                "icon": "./assets/icons/cheese.svg",
                 "blurb": "Those with higher Cheeselord scores embrace cheesy tactics, exploits, and any edge that secures victory, regardless of traditional norms."
             },
             "rightvalue": {
@@ -135,13 +135,13 @@
             "leftvalue": {
                 "name": "Flamer",
                 "color": "#ff0000",
-                "icon": "./assets/icons/flamer.svg",
+                "icon": "./assets/icons/flame.svg",
                 "blurb": "Those with higher Flamer scores are more likely to be critical, confrontational, and negative in their interactions, often expressing frustration openly."
             },
             "rightvalue": {
                 "name": "Positivity",
                 "color": "#00ff7f",
-                "icon": "./assets/icons/positive_vibes.svg",
+                "icon": "./assets/icons/positivity.svg",
                 "blurb": "Those with higher Positivity scores foster a supportive, encouraging, and optimistic atmosphere, helping to uplift their team and reduce stress."
             }
         }
